@@ -1,0 +1,17 @@
+body {
+
+    background-color: #FFF2E6;
+}
+
+.section {
+
+
+    font-style: italic;
+}
+
+.container{
+
+
+
+    flex: auto;
+}
